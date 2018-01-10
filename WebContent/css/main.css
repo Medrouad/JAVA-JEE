@@ -1,0 +1,46 @@
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  padding-top: 0;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1 0 auto;
+}
+
+img.cover {
+  margin-top: 10px;
+}
+
+img.logo-connection {
+  margin-top: 20px;
+}
+
+.input-field .prefix ~ div.select-wrapper {
+  margin-left: 3rem;
+  width: calc(100% - 3rem);
+}
+
+.prefix-select {
+  left: 12px;
+}
+
+.flash {
+  line-height: 45px;
+}
+
+td.pre-wrap {
+  white-space: pre-wrap;
+}
